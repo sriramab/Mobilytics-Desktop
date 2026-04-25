@@ -1,7 +1,22 @@
+## 1.7.3
+- 26.04.2026 (patch)
+- update corrections.
+
+## 1.7.2
+- 26.04.2026 (major)
+- UI: moving to multi-sign-in model + Key.
+
+## 1.7.1
+- 26.04.2026 (major)
+- UI: moving to multi-sign-in model.
+
 ## 1.7.0
 - 26.04.2026 (major)
-- UI: moving to sign-in
+- UI: moving to sign-in model.
 
+## 1.6.0
+- 26.04.2026 (major)
+- UI: persistent update notice.
 
 ## 1.5.2
 - 26.04.2026 (minor)
