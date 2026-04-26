@@ -1,3 +1,7 @@
+## 2.0.0
+- 26.04.2026 (patch)
+- UI corrections.
+
 ## 1.7.4
 - 26.04.2026 (patch)
 - update variant collection.
