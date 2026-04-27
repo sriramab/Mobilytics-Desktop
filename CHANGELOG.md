@@ -1,3 +1,8 @@
+## 2.2.0
+- 27.04.2026 (minor)
+- Signed Release Single Tenant.
+
+
 ## 2.1.0
 - 26.04.2026 (minor)
 - Signed Release.
