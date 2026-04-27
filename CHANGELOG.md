@@ -1,22 +1,10 @@
+## 2.1.0
+- 26.04.2026 (minor)
+- Signed Release.
+
 ## 2.0.0
 - 26.04.2026 (patch)
 - UI corrections.
-
-## 1.7.4
-- 26.04.2026 (patch)
-- update variant collection.
-
-## 1.7.3
-- 26.04.2026 (patch)
-- update corrections.
-
-## 1.7.2
-- 26.04.2026 (major)
-- UI: moving to multi-sign-in model + Key.
-
-## 1.7.1
-- 26.04.2026 (major)
-- UI: moving to multi-sign-in model.
 
 ## 1.7.0
 - 26.04.2026 (major)
@@ -30,38 +18,13 @@
 - 26.04.2026 (minor)
 - MOB: CANOPY gets download button.
 
-## 1.5.1
-- 26.04.2026 (patch)
-- homepage update
-
-## 1.5.0
-- 26.04.2026 (major)
-- App now shows usage stats.
-
-## 1.4.3
-- 22.04.2026 (patch)
-- MOB: html and user-manual updates.
-
 ## 1.4.0
 - 22.04.2026 (major)
 - MOB: study-area selection in STITCH
 
-## 1.3.4
-- 20.04.2026 (patch)
-- MOB: rename tiles.
-
 ## 1.3.3
 - 20.04.2026 (minor)
 - MOB: od heatmap 95percentile. reset color.
-
-## 1.3.2
-- 20.04.2026 (minor)
-- about bug fix
-
-## 1.3.1
-- 20.04.2026 (patch)
-- EV bug fix
-- about bug fix
 
 ## 1.3.0
 - 20.04.2026 (major)
@@ -82,9 +45,6 @@
 - 16.04.2026 (major)
 - MOB: Added Parkeerplafonds
 
-## 1.1.01
-- 15.04.2026 (patch)
-- EV: verified
 
 ## 1.1.0
 - 15.04.2026 (patch)
@@ -104,19 +64,11 @@
 - 06.04.2026 (patch)
 - SHA moves to app
 
-## 1.0.12
-- 06.04.2026 (major)
-- SHA 
-
-
 ## 1.0.11
 - 05.04.2026 (major)
 - silent install
 - release order sort
 
-## 1.0.10
-- 05.04.2026 (patch)
-- minor fixes
 
 ## 1.0.9
 - Group release
@@ -124,10 +76,6 @@
 - Large fonts
 - icons
 
-## 1.0.8
-- Group release
-- Change-log
-- Large fonts
 
 ## 1.0.0
 - Initial release
