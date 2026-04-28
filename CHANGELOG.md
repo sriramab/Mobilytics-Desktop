@@ -1,3 +1,7 @@
+## 2.2.1
+- 27.04.2026 (minor)
+- Checksum error
+
 ## 2.2.0
 - 27.04.2026 (minor)
 - Signed Release Single Tenant.
