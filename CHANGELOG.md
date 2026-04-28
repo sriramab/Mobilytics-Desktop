@@ -1,3 +1,7 @@
+## 2.2.3
+- 27.04.2026 (minor)
+- Updated Stats
+
 ## 2.2.2
 - 27.04.2026 (minor)
 - Updated Stats
