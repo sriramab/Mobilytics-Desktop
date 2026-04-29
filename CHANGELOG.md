@@ -1,6 +1,6 @@
-## 2.3.0
+## 2.3.1
 - 29.04.2026 (minor)
-- added Rtd Network 
+- Added Rtd Network 
 
 ## 2.2.2
 - 27.04.2026 (minor)
