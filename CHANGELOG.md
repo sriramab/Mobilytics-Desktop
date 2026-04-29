@@ -1,4 +1,4 @@
-## 2.3.11
+## 2.3.12
 - 29.04.2026 (minor)
 - Added Rtd Network 
 
