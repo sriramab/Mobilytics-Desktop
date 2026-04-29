@@ -1,6 +1,6 @@
-## 2.2.4
-- 27.04.2026 (minor)
-- Updated Stats
+## 2.3.0
+- 29.04.2026 (minor)
+- added Rtd Network 
 
 ## 2.2.2
 - 27.04.2026 (minor)
