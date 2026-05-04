@@ -1,3 +1,14 @@
+## 2.3.17
+- stitch pro added.
+- modify variant names in stitch pro.
+
+## 2.3.16
+- canopy fixes
+- stitch fixes
+
+## 2.3.15
+- canopy fixes
+
 ## 2.3.14
 - 29.04.2026 (minor)
 - Added Rtd Network 
