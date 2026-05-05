@@ -1,3 +1,6 @@
+## 2.3.22
+- SEGS-classic gets zoom.
+
 ## 2.3.21
 - SEGS-classic get 23 gemeente update.
 
