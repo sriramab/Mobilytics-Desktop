@@ -1,3 +1,6 @@
+## 2.3.20
+- SEGS-classic added
+
 ## 2.3.19
 - SEGS added
 
