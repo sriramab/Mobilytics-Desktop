@@ -1,3 +1,6 @@
+## 2.3.19
+- SEGS added
+
 ## 2.3.18
 - ParkeerCAP added
 
