@@ -1,3 +1,6 @@
+## 2.3.23
+- SEGS-classic gets zoom.
+- 
 ## 2.3.22
 - SEGS-classic gets zoom.
 
