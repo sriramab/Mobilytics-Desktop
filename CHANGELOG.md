@@ -1,3 +1,7 @@
+## 2.3.24
+- Stitch_pro gets reorder
+- Stitch_pro gets Auto Occupancy divider.
+
 ## 2.3.23
 - SEGS-classic gets zoom.
 - 
