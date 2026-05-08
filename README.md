@@ -1,0 +1,1 @@
+[![Build Mobilytics Tools](https://github.com/sriramab/mobilytics-vmrdh/actions/workflows/build-mobilytics.yml/badge.svg)](https://github.com/sriramab/mobilytics-vmrdh/actions/workflows/build-mobilytics.yml)
