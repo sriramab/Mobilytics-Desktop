@@ -1,3 +1,7 @@
+## 2.3.25
+- Stitch pro gets modal reoder
+- Stitch pro get colored grouping
+
 ## 2.3.24
 - Stitch_pro gets reorder
 - Stitch_pro gets Auto Occupancy divider.
