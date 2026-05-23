@@ -1,5 +1,7 @@
-## 2.3.25
+## 2.3.27
 - Stitch gets charts
+- SEGS excel deprecated
+- system-wide icons
 
 ## 2.3.25
 - Stitch pro gets modal reoder
