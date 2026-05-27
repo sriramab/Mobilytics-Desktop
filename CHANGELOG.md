@@ -1,3 +1,6 @@
+## 2.3.28
+- canopy fix (max > sum)
+
 ## 2.3.27
 - Stitch gets charts
 - SEGS excel deprecated
