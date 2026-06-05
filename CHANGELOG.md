@@ -1,3 +1,7 @@
+## 2.4.1
+- OD stag v2
+- OD stitch pro v2: adds charts
+- 
 ## 2.3.28
 - canopy fix (max > sum)
 
