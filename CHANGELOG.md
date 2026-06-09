@@ -1,3 +1,6 @@
+## 2.4.3
+- fixes SEGS into SEGS v2
+
 ## 2.4.2
 - fixes SEGS into SEGS v2
 
