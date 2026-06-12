@@ -1,3 +1,6 @@
+## 2.4.4
+- fixes Cookie-cutter to include field names
+
 ## 2.4.3
 - fixes SEGS into SEGS v2
 
