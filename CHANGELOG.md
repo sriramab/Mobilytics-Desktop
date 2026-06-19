@@ -1,3 +1,6 @@
+## 2.4.6
+- adds 20 dummy zones to SEGS
+
 ## 2.4.5
 - adds dummy zones to SEGS
 
