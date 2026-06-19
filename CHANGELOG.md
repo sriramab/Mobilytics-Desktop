@@ -1,3 +1,6 @@
+## 2.4.5
+- adds dummy zones to SEGS
+
 ## 2.4.4
 - fixes Cookie-cutter to include field names
 
