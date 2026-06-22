@@ -1,3 +1,8 @@
+## 2.4.7
+- new reorder in stitch
+- new selection menu in stitch
+- bug fix in export to excel
+
 ## 2.4.6
 - adds 20 dummy zones to SEGS
 
