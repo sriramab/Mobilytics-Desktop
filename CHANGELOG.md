@@ -1,3 +1,6 @@
+## 2.4.8
+- bug fix in modal share
+
 ## 2.4.7
 - new reorder in stitch
 - new selection menu in stitch
