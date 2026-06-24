@@ -1,3 +1,6 @@
+## 2.4.9
+- new feature -label segs+dummy
+
 ## 2.4.8
 - bug fix in modal share
 
