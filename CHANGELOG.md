@@ -1,3 +1,6 @@
+## 2.5.0
+- fixes several bugs in -label segs+dummy
+
 ## 2.4.9
 - new feature -label segs+dummy
 
