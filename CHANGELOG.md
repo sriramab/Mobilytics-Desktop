@@ -1,5 +1,5 @@
-## 2.7.0
-- GTFS Frequency Analyser NL - independent
+## 2.7.1
+- Added CSV compare
 
 ## 2.6.3
 - GTFS Frequency Analyser NL - independent
