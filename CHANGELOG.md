@@ -1,3 +1,6 @@
+## 2.6.1
+- GTFS Frequency Analyser NL - independent
+
 ## 2.6.0
 - GTFS Frequency Analyser NL
 
