@@ -1,3 +1,6 @@
+## 2.6.0
+- GTFS Frequency Analyser NL
+
 ## 2.5.0
 - fixes several bugs in -label segs+dummy
 
