@@ -1,3 +1,6 @@
+## 2.7.2
+- GTFS True Shape
+
 ## 2.7.1
 - Added CSV compare
 
