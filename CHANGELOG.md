@@ -1,3 +1,6 @@
+## 2.7.3
+- removed deprecated apps.
+
 ## 2.7.2
 - GTFS True Shape
 
