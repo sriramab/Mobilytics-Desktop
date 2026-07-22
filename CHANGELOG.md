@@ -1,3 +1,6 @@
+## 2.7.4
+- fixed veldname in Cookie Cutter
+
 ## 2.7.3
 - removed deprecated apps.
 
