@@ -1,3 +1,6 @@
+## 2.7.5
+- fixed od stitch reorder
+
 ## 2.7.4
 - fixed veldname in Cookie Cutter
 
