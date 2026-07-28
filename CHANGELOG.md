@@ -1,3 +1,9 @@
+## 2.7.7
+- fixed od stitch font size
+
+## 2.7.6
+- fixed od stitch reorder
+
 ## 2.7.5
 - fixed od stitch reorder
 
