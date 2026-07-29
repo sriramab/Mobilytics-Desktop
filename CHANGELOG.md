@@ -1,3 +1,6 @@
+## 2.8.2
+- tools now shows version when tool was published
+
 ## 2.8.1
 - fix: tools now shows date when tool was published
 
