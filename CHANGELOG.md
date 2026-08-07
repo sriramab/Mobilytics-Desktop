@@ -1,3 +1,6 @@
+## 2.9.0
+- web contributions are now accepted
+
 ## 2.8.2
 - tools now shows version when tool was published
 
