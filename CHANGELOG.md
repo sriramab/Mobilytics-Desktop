@@ -1,3 +1,6 @@
+## 2.9.1
+- Parkeersectoren → TIR-gebiedsindeling
+
 ## 2.9.0
 - web contributions are now accepted
 
