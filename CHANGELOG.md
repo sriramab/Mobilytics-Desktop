@@ -1,3 +1,6 @@
+## 2.9.2
+- Added comparing OD in csv format VMRDH-4
+
 ## 2.9.1
 - Parkeersectoren → TIR-gebiedsindeling
 
