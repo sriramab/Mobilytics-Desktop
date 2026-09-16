@@ -1,3 +1,6 @@
+## 2.10.0
+- Use GTFS to extract timetables for Omnitrans.
+
 ## 2.9.4
 - All experimental tools removed.
 
