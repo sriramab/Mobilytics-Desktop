@@ -1,3 +1,6 @@
+## 2.10.2
+- Use GTFS to extract timetables for Omnitrans v2.
+
 ## 2.10.1
 - Use GTFS to extract timetables for Omnitrans.
 
