@@ -1,3 +1,6 @@
+## 2.11.0
+- 30kmu aanpak
+
 ## 2.10.2
 - Use GTFS to extract timetables for Omnitrans v3.
 
