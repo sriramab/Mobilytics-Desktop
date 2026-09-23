@@ -1,3 +1,6 @@
+## 2.12.0
+- VCP Rotterdam
+
 ## 2.11.0
 - 30kmu aanpak
 
