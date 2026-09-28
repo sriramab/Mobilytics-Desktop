@@ -1,3 +1,6 @@
+## 2.12.1
+- Use GTFS to extract timetables for Omnitrans, single line extract.
+
 ## 2.12.0
 - VCP Rotterdam
 
