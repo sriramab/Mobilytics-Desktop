@@ -1,3 +1,6 @@
+## 2.12.3
+- IntensiteitenKaart RTD
+
 ## 2.12.2
 - Use GTFS to extract timetables for Omnitrans, Needleman-Wunsch corrections
 
