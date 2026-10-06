@@ -1,3 +1,6 @@
+## 2.12.4
+- IUse GTFS to extract timetables for Omnitrans, Date Specific GTFS
+
 ## 2.12.3
 - IntensiteitenKaart RTD
 
