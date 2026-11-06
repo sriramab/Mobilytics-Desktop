@@ -1,3 +1,6 @@
+## 2.12.6
+- Minor - Change version labeling
+
 ## 2.12.5
 - Minor - Change tile labeling
 
