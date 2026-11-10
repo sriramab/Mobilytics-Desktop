@@ -1,3 +1,6 @@
+## 2.13.0
+- Major - Stitch now allows exporting all tables.
+
 ## 2.12.6
 - Minor - Change version labeling
 
