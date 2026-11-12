@@ -1,6 +1,5 @@
-## 2.13.0
-- Major - Stitch now allows exporting all tables.
-
+## 2.13.1
+- Major - Stitch re-order bug fix`
 ## 2.12.6
 - Minor - Change version labeling
 
