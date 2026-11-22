@@ -1,3 +1,6 @@
+## 2.14.0
+- Major - Stop Load Viewer
+
 ## 2.13.1
 - Major - Stitch re-order bug fix`
 ## 2.12.6
