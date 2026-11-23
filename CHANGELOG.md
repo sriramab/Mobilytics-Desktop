@@ -1,3 +1,6 @@
+## 2.15.0
+- Security Patch
+
 ## 2.14.0
 - Major - Stop Load Viewer
 
