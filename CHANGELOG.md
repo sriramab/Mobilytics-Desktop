@@ -1,3 +1,7 @@
+## 2.16.0
+- Major - LTR and CR can now be installed side by side on the same machine
+- Note for LTR users: uninstall the previous "Mobilytics Desktop" LTR once via Settings → Apps
+
 ## 2.15.0
 - Security Patch
 
