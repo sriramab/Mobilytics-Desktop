@@ -1,3 +1,6 @@
+## 2.17.0
+- Major - UI changed completely.
+
 ## 2.16.1
 - Minor - Re-release of 2.16.0, no functional changes
 
