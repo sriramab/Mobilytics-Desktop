@@ -1,4 +1,4 @@
-## 2.17.1
+## 2.17.2
 - Stop Load Viewer Updated with Charts
 
 ## 2.17.0
