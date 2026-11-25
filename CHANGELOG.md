@@ -1,3 +1,6 @@
+## 2.17.1
+- Stop Load Viewer Updated with Charts
+
 ## 2.17.0
 - Major - UI changed completely.
 
