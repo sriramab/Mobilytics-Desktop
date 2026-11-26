@@ -1,3 +1,6 @@
+## 2.18.0
+- Transitline Load Viewer 
+
 ## 2.17.2
 - Stop Load Viewer Updated with Charts
 
